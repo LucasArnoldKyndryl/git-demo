@@ -2,12 +2,6 @@
 
 This is the first file in the folder
 
-##Ipsum below
-
-whatever you want to write here
-
-### Ipsum more
-
-More and more written here and typed there
-
-#### Ipsum more and more more more
+##Website project
+Here are the files for the website
+1.index.html
